@@ -21,7 +21,7 @@ Follow these steps to start your sandbox instance and deploy your Vue.js app:
 
 7.  Choose a Resource Type field, please choose either Deployment or Serverless Deployment (default option) depending on your preference.
     
-8.  Select Target Port under Advanced options to define the port **8080** that will receive the container's traffic.
+8.  Select **Target Port** under Advanced options to define the port 8080 that will receive the container's traffic.
     
 9.  Click on **Create**.
     
